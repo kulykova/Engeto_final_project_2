@@ -5,6 +5,6 @@ Použité technologie: Python, Pytest, Playwright framework, DevTools
 Výsledky testování:
 collected 5 items                                                                                                                             
 
-test_wiki.py .....                                                                                                                      [100%]
+test_wikipedie.py .....                                                                                                                      [100%]
 
 ============================================================= 5 passed in 15.11s =============================================================
